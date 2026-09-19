@@ -16,4 +16,4 @@ The following published patents are listed in the supplied CV. Patent identifier
 
 The CV also records more than five additional patent submissions from 2019 to 2025 that are not publicly disclosed.
 
-The updated list of public available patents can be found at https://patents.google.com/?inventor=Dario+TORREGROSSA
+The updated list of public available patents can be found at [Google Patent](https://patents.google.com/?inventor=Dario+TORREGROSSA)
