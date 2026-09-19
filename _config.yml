@@ -24,13 +24,12 @@ repository               : "dario-torregrossa-private/curriculum"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dario Torregrossa"
+  name             : "Dario Torregrossa, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Lead Data Scientist and Senior R&T Scientist working on AI, machine learning, and data-driven products."
+  bio              : "Experienced Data Scientist and Senior R&T Scientist working on AI, machine learning, and data-driven products."
   location         : "Luxembourg"
   employer         : "Luxembourg Institute of Science and Technology (LIST)"
   uri              : # URL
-  email            : "dariotorregrossa@gmail.com"
 
   # Academic websites
   academia         : # URL
