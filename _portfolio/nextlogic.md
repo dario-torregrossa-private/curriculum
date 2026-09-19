@@ -2,8 +2,10 @@
 title: "NEXTLOGIC"
 excerpt: "A Horizon Europe project helping cities plan and manage climate-neutral urban space, mobility, and logistics."
 collection: portfolio
-link: "https://www.nextlogic-project.eu/"
+
 ---
+
+
 
 **Roles: Task leader and technical contributor**
 

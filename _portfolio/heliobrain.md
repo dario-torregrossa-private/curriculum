@@ -2,7 +2,7 @@
 title: "HelioBrain"
 excerpt: "A digital twin for photovoltaic plants supporting monitoring, effect allocation, and alerts."
 collection: portfolio
-link: "https://heliobrain.com/"
+
 ---
 
 **HelioBrain** is a startup focused on digital-twin technology for photovoltaic (PV) plants.

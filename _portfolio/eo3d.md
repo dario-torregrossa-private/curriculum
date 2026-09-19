@@ -2,7 +2,7 @@
 title: "EO3D"
 excerpt: "A collaborative 3D reference database and AI-powered identification framework for explosive ordnance."
 collection: portfolio
-link: "https://researchportal.list.lu/projects/detail/eo3d"
+
 ---
 
 **Role: Tech leader**
