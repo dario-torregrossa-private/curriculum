@@ -13,9 +13,9 @@ title                    : "Dario Torregrossa"
 title_separator          : "-"
 name                     : &name "Dario Torregrossa"
 description              : &description "Data scientist and industrial researcher focused on AI, machine learning, and data-driven products."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "" # Set the public site URL when it is available.
+url                      : "https://dario-torregrossa-private.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/curriculum" # the subpath of your site, e.g. "/blog"
 repository               : "dario-torregrossa-private/curriculum"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
