@@ -13,6 +13,8 @@ I am especially motivated by building data-driven products that create measurabl
 
 My experience started in 2009 and includes:
 
+- Product design, development, monitoring and post-delivery assistance
+- Applied Research 
 - Machine learning and predictive maintenance
 - Time-series forecasting and optimization
 - Reinforcement learning, decision-support systems, and digital twins
