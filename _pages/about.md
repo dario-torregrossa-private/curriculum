@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lead Data Scientist and Senior R&T Scientist working at the Luxembourg Institute of Science and Technology (LIST), where I focus on human-centered AI, data, and software.
+I am a results-driven research scientist with a strong record of applying data science in the energy, environmental, industrial,and sensor sectors.
+ 
+I am especially motivated by building data-driven products that create measurable business value and deliver real benefits to people. My background spans both applied research and commercially focused product development, enabling me to design end-to-end solutions that achieve meaningful outcomes for real users
 
-My work combines applied research with commercially focused product development. I design and deliver data-driven solutions that create measurable value in energy, environmental, industrial, and sensor-related applications.
-
-My experience includes:
+My experience started in 2009 and includes:
 
 - Machine learning and predictive maintenance
 - Time-series forecasting and optimization
