@@ -4,9 +4,11 @@ permalink: /academic-career/
 author_profile: true
 ---
 
-## PhD in Data Science and Energy Optimization
-
+## PhD in Engineering
 **University of Luxembourg**  
+Topic: Data Science and Energy and Process Optimization WWTPs
+
+
 2015-2018
 
 Thesis: *A decision support system for energy optimization of wastewater treatment plants*
